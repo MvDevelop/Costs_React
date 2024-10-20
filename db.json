@@ -21,17 +21,6 @@
       },
       "cost": 0,
       "services": []
-    },
-    {
-      "id": "3b6f",
-      "name": "Projeto Novo 00",
-      "budget": "13000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
     }
   ],
   "categories": [
